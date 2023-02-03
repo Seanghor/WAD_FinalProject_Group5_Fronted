@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    font-family:'Poppins', sans-serif ;
+    font-weight: 600;
+  }
+  .icon
+  {
+    font-size: 1.5em;
+  }
+  .kitchilogo{
+    padding-left: 30px;
+  }
+
+  .navbar {
+    position: absolute; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+  }
